@@ -53,9 +53,9 @@ li {
 .separetor {
     display: flex;
     width: 150vh;
+    margin-left: 20%;
     height: 1rem;
     background: rgb(102, 102, 102);
-    margin-left: 24rem;
 }
 
 .sidebar__item {
