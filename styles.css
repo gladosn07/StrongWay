@@ -19,6 +19,10 @@ header {
     justify-content: center;
 }
 
+.list {
+    height: 100%;
+}
+
 .logo {
     margin: 2rem 10rem 0 0;
 }
@@ -28,7 +32,6 @@ header {
     height: 20vh;
     align-items: center;
     justify-content: center;
-    margin-top: 2rem;
     margin-right: 10rem;
 }
 
